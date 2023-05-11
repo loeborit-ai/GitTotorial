@@ -1,2 +1,2 @@
-# GitTotorial
+# GitTutorial
 First reposotory
